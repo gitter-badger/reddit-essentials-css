@@ -1,4 +1,8 @@
-“Only the Essentials,” a simple, lightweight and customizable theme for Reddit.
+#“Only the Essentials,” a Reddit theme 
+
+Simple, lightweight and customizable. This is how to make your subreddit look... different.
+
+---
 
 #Changelog
 
@@ -34,7 +38,7 @@ That's it! The changes should be reflected to everyone immediatly.
 
 ##I'm having trouble with some part of your theme. Where can I ask for help?
 
-For speedy support, visit [/r/CSShelp](https://reddit.com/r/CSShelp). You can ask questions about the theme on [/r/OnlytheEssentials](https://reddit.com/r/onlytheessentials) as well but the response delay might be a lot longer.
+For speedy support, visit [/r/CSShelp](https://reddit.com/r/CSShelp). You can ask questions about the theme specifically on [/r/OnlytheEssentials](https://reddit.com/r/onlytheessentials) as well but the response delay might be a bit longer. [/r/RedditHax](https://reddit.com/r/reddithax), [/r/SelectorLegend](https://reddit.com/r/selectorlegend) and [/r/CSSTutorials](https://reddit.com/r/CSSTutorials) also might be handy.
 
 ##Where do I add my modifications?
 
