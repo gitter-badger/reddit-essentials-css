@@ -1,0 +1,118 @@
+/*  “Only the Essentials,” a Reddit theme by /u/mvilcis
+    Version: 0.1 (Alpha) - Last updated: May 29, 2016
+    For more information, go to /r/OnlytheEssentials */
+    
+/* Important notice: Please add your addons or customizatiosn below the actual stylesheet! Do not edit the actual code! */
+    
+/* ==================== ==================== ==================== */
+
+    /* GENERAL */
+    
+      /* This option changes the font and background color on the entire page */
+      
+        body {
+            background-color: #E5E5E5;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+      /* This capitalizes the first letter of each on the footer and header */
+      
+        #header, .footer-parent { text-transform: capitalize; }
+        
+    /* END: GENERAL */
+
+    /* HEADER */
+    
+      /* Change header color */
+        
+        #header { background-color: white; }
+        
+      /* END: Change header color */
+    
+      /* Remove underlining and change the link color on hover */
+        
+        #header .pagename a { text-decoration: none; }
+        #header .pagename a:hover { color: #E5E5E5; }
+        
+      /* END: Remove underlining and change the link color on hover */
+        
+      /* Change header background */
+        
+        #sr-header-area, .sr-list, .flat-list, #header-bottom-left, #header-bottom-right, #userbarToggle, #userbarHide .sr-bar {
+            background-color: white;
+            border: 0;
+        }
+        
+      /* END: Change header background */
+        
+    /* END: HEADER */
+    
+    /* CONTENT (MAIN) */
+    
+      /* THINGS - POSTS */
+      
+        /* Change the background color of posts to white */
+    
+          .thing { background-color: white; }
+      
+      /* END: THINGS - POSTS */
+    
+    /* END: CONTENT (MAIN) */
+    
+    /* SIDEBAR */
+    
+      /* This capitalizes the moderator tools' names and removes the border surrounding the area */
+    
+        #moderation_tools ul, title {
+            border: 0;
+            text-transform: capitalize;
+        }
+        
+       .side .redditname {font-size:0;}
+        
+      /* Give sidebar padding and a white background color*/
+        
+        .side {
+          padding: 1rem;
+          background-color: #FFF;
+        }
+        
+      /* Customize submit buttons */
+        
+        /* Give the submit buttons some padding, a red background, no border and align the text to the left */
+        
+          .sidebox.submit .morelink {
+            border: 0;
+            background: red;
+            padding: 0rem 0rem 0rem 0.75rem;
+            text-align: left;
+          }
+        
+        /* On hover, use a lightbox effect */
+        
+          .sidebox.submit .morelink:hover {
+            opacity: .5;
+            -webkit-transition-duration: .5s;
+            transition-duration: .5s
+          }
+        
+        /* Hotfix */
+        
+          .morelink a {
+            color: #FFF;
+          }
+        
+        /* Removes the stupid nub */
+      
+          .nub { display: none; }
+  
+        /* Hides the submit text button. Replace the "submit-text" with "submit-link" if you want to only show the submit link button.
+         You can also just delete this entire section if you'd like to keep the two buttons available and not just one. */ 
+  
+          .sidebox submit submit-text { display: none; }
+    
+    /* END: SIDEBAR */
+
+/* ==================== ==================== ==================== */
+
+/* Feel free to add any customizations, hacks or whatever you want here */
