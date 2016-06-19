@@ -1,5 +1,7 @@
 #“Only the Essentials,” a Reddit theme 
 
+[![Join the chat at https://gitter.im/mvilcis/reddit-essentials-css](https://badges.gitter.im/mvilcis/reddit-essentials-css.svg)](https://gitter.im/mvilcis/reddit-essentials-css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple, lightweight and customizable. This is how to make your subreddit look... different.
 
 ---
